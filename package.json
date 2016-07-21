@@ -1,0 +1,26 @@
+{
+  "name": "angular-http-csrf",
+  "version": "1.0.0",
+  "description": "Angular 1.x $http cross-site request forgery provider.",
+  "main": "http-csrf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonClapp/angular-http-csrf.git"
+  },
+  "keywords": [
+    "angular",
+    "csrf",
+    "antiforgery",
+    "token",
+    "provider"
+  ],
+  "author": "Brandon Clapp <brandonclapp@outlook.com> (http://BrandonClapp.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandonClapp/angular-http-csrf/issues"
+  },
+  "homepage": "https://github.com/BrandonClapp/angular-http-csrf#readme"
+}
