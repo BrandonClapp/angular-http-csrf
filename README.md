@@ -12,6 +12,7 @@ This is an angular 1.x provider which will add cross-site request forgery tokens
 #### Arguments
 - **token** (string): The CSRF token.
 - **customHttpHeader** *(optional)* (string): HTTP header value that the CSRF token will be added to.
+  - default: X-XSRF-Token
 
 #### Example
 

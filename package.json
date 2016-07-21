@@ -1,6 +1,6 @@
 {
   "name": "angular-http-csrf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular 1.x $http cross-site request forgery provider.",
   "main": "http-csrf.js",
   "scripts": {
