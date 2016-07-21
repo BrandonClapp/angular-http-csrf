@@ -7,7 +7,6 @@
       var header = 'X-XSRF-Token';
 
       this.useToken = function(token, customHeaderName) {
-
         if (customHeaderName) {
           header = customHeaderName;
         }
