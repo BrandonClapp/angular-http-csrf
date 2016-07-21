@@ -1,5 +1,5 @@
 # What is this?
-This is an angular 1.x provider which will add cross-site request forgery tokens to `$http` ajax request headers. More information about CSRF can be found on [OWASP](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
+This is an angular 1.x provider which will add cross-site request forgery tokens to `$http` ajax request headers. More information about CSRF can be found on [OWASP](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 
 # Installation
 
